@@ -1,0 +1,25 @@
+
+use('fullstack2022');
+
+// ? Insertar documento en la BDD
+// db.cursos.insertOne({
+//     "curso": "The Ultimate Guide to React.js mega-course forever and ever. From bootcamp to job in 1 week",
+//     "docente": "Moisés de Lima",
+//     "opcion": "Presencial",
+//     "aula": "Aula-3",
+//     "precio": 6000
+//     }
+// )
+
+// ? Buscar todos los elementos en la BDD
+// db.cursos.find({});
+
+// ? Buscar un elemento en concreto en la BDD
+//db.cursos.find({opcion:'On-line'});
+
+// ? Buscar un elementos por su id
+
+db.cursos.find();
+
+
+
